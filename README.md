@@ -36,7 +36,7 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+**May 10 2021:** Added `heroku_config` script tstoro allow Heroku API key to be ed as an environment variable.
 
 **April 7 2021:** Upgraded the template for VS Code instead of Theia.
 
